@@ -1,0 +1,9 @@
+.line-height {
+  line-height: 150%;
+}
+
+.active-text {
+  color: rgb(255, 0, 0) !important;
+  /* font-size: 700px; */
+}
+ 
